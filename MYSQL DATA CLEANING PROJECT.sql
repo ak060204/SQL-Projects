@@ -1,3 +1,6 @@
+-- This script demonstrates my data cleaning process in MySQL, where I create staging tables, remove duplicates, standardize values, and handle nulls to ensure consistent, analysis-ready data. 
+-- I verify every step by checking intermediate results and finally remove unnecessary records to produce a clean, optimized dataset.
+
 -- Step 1: View the original data in the layoffs table
 SELECT * FROM layoffs;
 
