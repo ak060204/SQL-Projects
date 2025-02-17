@@ -22,9 +22,11 @@ Analyze the cleaned layoffs dataset to uncover trends, patterns, and anomalies i
 
 ### Key Analysis Performed:
 
-#### Data Overview: Previewed the dataset to understand its structure.
+#### Data Overview: 
+Previewed the dataset to understand its structure.
 
-#### Layoff Metrics: Identified the largest single layoff event and analyzed the range of layoff percentages.
+#### Layoff Metrics: 
+Identified the largest single layoff event and analyzed the range of layoff percentages.
 
 #### Company & Location Analysis:
 Determined which companies experienced 100% layoffs.
